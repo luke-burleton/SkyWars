@@ -1,13 +1,11 @@
-SKY WARS
-
-CONTROLS:
+# CONTROLS:
 
 Use the arrow keys to move and p to pause.
 
 N = new game | L = load | Q = quit
 
 
-RULES:
+# RULES:
 
 Gameplay Style: The game is played in real-time, allowing the player to move freely without waiting for turns. Enemy ships spawn and move continuously on a timer-based system.
 
@@ -19,7 +17,7 @@ Sky Size: The game area is expanded to a 5x5 grid, providing the player with mor
 
 Enemy Ship Types: While the game currently features only one type of enemy ship, each enemy ship has a "type" variable. This variable allows for potential expansion in the future, enabling the addition of more enemy ship types with unique characteristics and behaviors.
 
-RESOURCE CREDITS:
+# RESOURCE CREDITS:
 
 •	Sprites used: https://opengameart.org/content/spaceships-32x32
 
