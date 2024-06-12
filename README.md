@@ -1,14 +1,14 @@
 # Installation
 You may play the game by installing the latest release and running the JAR file. Alternatively, you may import the source code into an appropriate IDE (I developed this in eclipse) and run/edit it that way. I have also inlcuded the JUnit tests used to test the program.
 
-# CONTROLS:
+# Controls:
 
 Use the arrow keys to move and p to pause.
 
 N = new game | L = load | Q = quit
 
 
-# RULES:
+# Rules:
 
 Gameplay Style: The game is played in real-time, allowing the player to move freely without waiting for turns. Enemy ships spawn and move continuously on a timer-based system.
 
@@ -20,7 +20,7 @@ Sky Size: The game area is expanded to a 5x5 grid, providing the player with mor
 
 Enemy Ship Types: While the game currently features only one type of enemy ship, each enemy ship has a "type" variable. This variable allows for potential expansion in the future, enabling the addition of more enemy ship types with unique characteristics and behaviors.
 
-# RESOURCE CREDITS:
+# Resource Credits:
 
 •	Sprites used: https://opengameart.org/content/spaceships-32x32
 
