@@ -1,3 +1,6 @@
+# Installation
+You may play the game by installing the latest release and running the JAR file. Alternatively, you may import the source code into an appropriate IDE (I developed this in eclipse) and run/edit it that way. I have also inlcuded the JUnit tests used to test the program.
+
 # CONTROLS:
 
 Use the arrow keys to move and p to pause.
